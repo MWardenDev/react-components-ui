@@ -19,7 +19,7 @@ This library is a central place to grow and refine reusable components over time
 ## Tech Stack
 
 - **React** (function components + hooks)
-- **TypeScript**
+- **TypeScript**s
 - **Vite**
 - **Tailwind CSS v4**
 
